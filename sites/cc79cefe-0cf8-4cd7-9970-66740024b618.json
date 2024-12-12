@@ -1,0 +1,44 @@
+{
+  "id": "cc79cefe-0cf8-4cd7-9970-66740024b618",
+  "name": "Leen",
+  "description": "Building penx.io~",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"Co-creator of penx.io, Full-Stack developer,  JavaScript / Solidity / Rust .\"}]}]",
+  "spaceId": "0x27BCcD70618A09c4E41a62DFf04303d5Bd24A5Da",
+  "logo": "QmcFQTgJ7owBHrsNtCcJq8aV6C3EJdvkHwjvWY5MFmE8xT",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "minimal",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-03T15:28:26.761Z",
+  "updatedAt": "2024-12-12T05:27:12.133Z",
+  "userId": "aa58f8db-e1f6-46ae-8a14-531aa17b525d",
+  "domains": [
+    {
+      "id": "4cff4559-0262-4bb7-a610-ebea4950800b",
+      "domain": "0x45abbc64421a54cbfff878985ae6c4f0cfacfdb7",
+      "isSubdomain": true,
+      "subdomainType": "Address",
+      "disabled": false,
+      "siteId": "cc79cefe-0cf8-4cd7-9970-66740024b618"
+    },
+    {
+      "id": "8bf615d4-cd5b-4166-8b7f-354009991529",
+      "domain": "leen",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
+      "disabled": false,
+      "siteId": "cc79cefe-0cf8-4cd7-9970-66740024b618"
+    }
+  ]
+}
