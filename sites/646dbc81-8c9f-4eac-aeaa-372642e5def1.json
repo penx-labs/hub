@@ -1,0 +1,36 @@
+{
+  "id": "646dbc81-8c9f-4eac-aeaa-372642e5def1",
+  "name": "Your Friend",
+  "description": "indonesian /farcaster ",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62059c10-2582-45a2-7629-b734876cec00/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "card",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-13T20:14:32.208Z",
+  "updatedAt": "2024-12-13T20:21:00.312Z",
+  "userId": "ac0a6882-a6e5-4381-876b-260be9be72cb",
+  "domains": [
+    {
+      "id": "5626f3c3-322d-4d79-bb58-dad0ae675cb0",
+      "domain": "iqnafutuhanwar",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "646dbc81-8c9f-4eac-aeaa-372642e5def1"
+    }
+  ]
+}
