@@ -1,0 +1,36 @@
+{
+  "id": "afeecb02-de1d-4f25-8b66-6b44a8c55197",
+  "name": "hughspencer.base.eth",
+  "description": "/StarFire is my home channel. Owner of /AppleMusic Channel. Dog Dad. GayAF. Fashion Lover. CreativeMF. MidwestMan. IridescentAdvocate. Traveler.",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x5e1c322b2eC486397D8C13d149091B804d28c2C8",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f61e189d-2dc6-46f2-2a1b-21cbfb26a100/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-12T03:31:45.576Z",
+  "updatedAt": "2024-12-13T04:24:17.920Z",
+  "userId": "2ff9d2df-138f-423d-929c-e0552dac5955",
+  "domains": [
+    {
+      "id": "ee21f2bb-1f09-4846-8719-b4483e4450a0",
+      "domain": "homohugh",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "afeecb02-de1d-4f25-8b66-6b44a8c55197"
+    }
+  ]
+}
