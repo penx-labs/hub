@@ -1,0 +1,36 @@
+{
+  "id": "703c1052-8a17-4152-bf85-1572be480d34",
+  "name": "overtheraa ",
+  "description": "I like everything ",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://arweave.net/nzqTYeVmEnlgBl12ze7fT9X4b2whiUnwUVP3_8KDNZI/",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-13T07:06:04.812Z",
+  "updatedAt": "2024-12-13T07:11:21.610Z",
+  "userId": "b0c12aad-a7da-4615-8f82-bbcf079e2c61",
+  "domains": [
+    {
+      "id": "6de0fc94-7128-4b95-b18a-ed3aa153aaf2",
+      "domain": "overtheraa",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "703c1052-8a17-4152-bf85-1572be480d34"
+    }
+  ]
+}
