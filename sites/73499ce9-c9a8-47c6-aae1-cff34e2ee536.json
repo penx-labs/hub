@@ -1,0 +1,36 @@
+{
+  "id": "73499ce9-c9a8-47c6-aae1-cff34e2ee536",
+  "name": "Rando",
+  "description": "VP Eng at Ulys \n--\nweb3 eng leader 🟠 Rustacean 🟠 Bitcoiner (nonmaxi) 🟠 econ geek 🟠 Coinbase alum\n\n#btc #crypto #blockchain #defi #rust #GenX",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x2deCE9db514cB1Ec87D2b58f2562096c9688A1a1",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/ac9f69c2-77df-4cb7-36cf-8f200789b000/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-13T02:42:31.468Z",
+  "updatedAt": "2024-12-13T17:18:24.540Z",
+  "userId": "f58a2669-7b83-4f34-8368-ad549590082f",
+  "domains": [
+    {
+      "id": "0616d45c-a747-4297-9111-90dcf581de2b",
+      "domain": "chasing-pointers",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "73499ce9-c9a8-47c6-aae1-cff34e2ee536"
+    }
+  ]
+}
