@@ -14,14 +14,25 @@
   "authConfig": null,
   "storageProvider": "IPFS",
   "storageConfig": null,
-  "socials": {},
+  "socials": {
+    "x": "https://x.com/iqnafutuhanwar",
+    "github": "",
+    "medium": "",
+    "threads": "",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "mastodon": "",
+    "farcaster": "https://warpcast.com/iqnafutuhanwar",
+    "instagram": ""
+  },
   "config": {},
   "themeName": "card",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2024-12-13T20:14:32.208Z",
-  "updatedAt": "2024-12-13T20:27:59.560Z",
+  "updatedAt": "2024-12-13T20:30:15.821Z",
   "userId": "ac0a6882-a6e5-4381-876b-260be9be72cb",
   "domains": [
     {
@@ -29,6 +40,14 @@
       "domain": "iqnafutuhanwar",
       "isSubdomain": true,
       "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "646dbc81-8c9f-4eac-aeaa-372642e5def1"
+    },
+    {
+      "id": "5d674ff8-7f48-4b2f-8ded-de4c0c894b99",
+      "domain": "secrets",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
       "disabled": false,
       "siteId": "646dbc81-8c9f-4eac-aeaa-372642e5def1"
     }
