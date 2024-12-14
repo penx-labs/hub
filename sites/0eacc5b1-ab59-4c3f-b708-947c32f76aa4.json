@@ -1,0 +1,36 @@
+{
+  "id": "0eacc5b1-ab59-4c3f-b708-947c32f76aa4",
+  "name": "Film Bagus21",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocIInnzxMWRoBiYvmV33rDOPDF5YKIuIMyDBTuXx5QpKw_2ixw=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-14T16:34:34.852Z",
+  "updatedAt": "2024-12-14T16:39:17.683Z",
+  "userId": "9e480e84-8281-4f3b-9e81-8145a02e2d9b",
+  "domains": [
+    {
+      "id": "20a2ab23-c1df-47b3-bb73-bfa51d51bb47",
+      "domain": "9e480e84-8281-4f3b-9e81-8145a02e2d9b",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "0eacc5b1-ab59-4c3f-b708-947c32f76aa4"
+    }
+  ]
+}
