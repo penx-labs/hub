@@ -1,0 +1,36 @@
+{
+  "id": "07272172-e66a-42bb-993c-c7e69c92ba54",
+  "name": "Horror Gothic",
+  "description": "Vloger, gamer and crypto enthusiast.",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"Horror, gothic rock and games.\"}]}]",
+  "spaceId": null,
+  "logo": "https://penx.io/logo.png",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-15T16:32:17.913Z",
+  "updatedAt": "2024-12-15T16:34:42.230Z",
+  "userId": "fef759f7-3538-430b-90a4-1f9e6fbc32f1",
+  "domains": [
+    {
+      "id": "673915ca-c1c8-4f73-a64c-745aa40ca9ed",
+      "domain": "0x67de05d60457fd3bed1487ed56cbc8f38a3df33a",
+      "isSubdomain": true,
+      "subdomainType": "Address",
+      "disabled": false,
+      "siteId": "07272172-e66a-42bb-993c-c7e69c92ba54"
+    }
+  ]
+}
