@@ -1,0 +1,36 @@
+{
+  "id": "2d7a98de-ac72-4122-ad17-2814f5196bec",
+  "name": "Cinematic Snapshot 🎩",
+  "description": "Horror and gothic rock.",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "Cinematic Hub",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2b076c22-74c5-4462-33fc-21e00dc6d300/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-15T16:27:30.552Z",
+  "updatedAt": "2024-12-15T16:49:16.783Z",
+  "userId": "593b5797-7ee2-4143-a864-7c51c4940f3e",
+  "domains": [
+    {
+      "id": "81828b75-213d-449e-8cfe-0412650ac321",
+      "domain": "cinematichub",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "2d7a98de-ac72-4122-ad17-2814f5196bec"
+    }
+  ]
+}
