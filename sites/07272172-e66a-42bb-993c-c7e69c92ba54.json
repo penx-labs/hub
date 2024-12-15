@@ -14,14 +14,25 @@
   "authConfig": null,
   "storageProvider": "IPFS",
   "storageConfig": null,
-  "socials": {},
+  "socials": {
+    "x": "",
+    "github": "",
+    "medium": "",
+    "threads": "",
+    "youtube": "https://youtube.com/@horrorgothic",
+    "facebook": "",
+    "linkedin": "",
+    "mastodon": "",
+    "farcaster": "",
+    "instagram": ""
+  },
   "config": {},
   "themeName": "garden",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2024-12-15T16:32:17.913Z",
-  "updatedAt": "2024-12-15T16:35:06.107Z",
+  "updatedAt": "2024-12-15T16:36:32.705Z",
   "userId": "fef759f7-3538-430b-90a4-1f9e6fbc32f1",
   "domains": [
     {
