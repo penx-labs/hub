@@ -8,7 +8,7 @@
   "font": "font-cal",
   "image": "",
   "email": null,
-  "mode": "NOTE_TAKING",
+  "mode": "BASIC",
   "authSecret": null,
   "authType": "RAINBOW_KIT",
   "authConfig": null,
@@ -21,7 +21,7 @@
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2024-12-15T16:27:30.552Z",
-  "updatedAt": "2024-12-15T16:50:00.594Z",
+  "updatedAt": "2024-12-15T16:55:01.090Z",
   "userId": "593b5797-7ee2-4143-a864-7c51c4940f3e",
   "domains": [
     {
