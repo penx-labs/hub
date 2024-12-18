@@ -1,0 +1,36 @@
+{
+  "id": "b99e31c5-a6ea-4d64-90f3-218ed5099132",
+  "name": "vivian zhang",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocKc9J5MrtzBSzI4jDKYERCLBAiuLkIh2mDB0rld719uXUE3w0CR=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-18T01:52:44.661Z",
+  "updatedAt": "2024-12-18T01:53:06.438Z",
+  "userId": "a1ef1bf0-931e-4a95-8d7e-8e18e13a20f2",
+  "domains": [
+    {
+      "id": "20843eea-3856-46c6-9db6-c3495f5798ba",
+      "domain": "a1ef1bf0-931e-4a95-8d7e-8e18e13a20f2",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "b99e31c5-a6ea-4d64-90f3-218ed5099132"
+    }
+  ]
+}
