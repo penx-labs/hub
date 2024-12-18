@@ -1,0 +1,36 @@
+{
+  "id": "e9192cb6-4289-406f-81d0-c9f9ff7d3d68",
+  "name": "0xZio",
+  "description": "Creator of penx.io , channel: /penx. Full stack engineer, designer.",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xace966d383de6663ff21a67bc0c9a35574ee4978",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/25c897df-cf40-4198-17e0-4e162b5e6200/original",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "minimal",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-01T11:49:33.137Z",
+  "updatedAt": "2024-12-18T04:09:39.981Z",
+  "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
+  "domains": [
+    {
+      "id": "6719d3b6-0719-4c66-8e42-a4375b18d207",
+      "domain": "0xzio",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "e9192cb6-4289-406f-81d0-c9f9ff7d3d68"
+    }
+  ]
+}
