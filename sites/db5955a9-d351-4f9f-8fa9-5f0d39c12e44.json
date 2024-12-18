@@ -1,0 +1,36 @@
+{
+  "id": "db5955a9-d351-4f9f-8fa9-5f0d39c12e44",
+  "name": "ahyad.degen",
+  "description": "/anime-manga fams\n\"Manhwa\"\n\"Donghua\"\n\"Drama\"\n\"Movie\"\n\"Film\"\n\"Visual Novel\"\n\"Culture Experience\"\n\"Game\"\n\"Music\"\n\n\"WEB3 Domains\"\n\"Bounty Hunter\"\n\nmod /ai-canvas",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x74bD71317e9d898Ac9E1e32d885d99dA2C9aC149",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/4f9664f3-09f0-47e3-74de-bee5fc36f000/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-18T12:38:34.671Z",
+  "updatedAt": "2024-12-18T13:07:37.235Z",
+  "userId": "b151dd82-58aa-4c7d-a5a4-4f9efdf92e00",
+  "domains": [
+    {
+      "id": "0edb47b9-3944-44c2-8c01-5be26126ed53",
+      "domain": "asauchi",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "db5955a9-d351-4f9f-8fa9-5f0d39c12e44"
+    }
+  ]
+}
