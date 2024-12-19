@@ -16,12 +16,12 @@
   "storageConfig": null,
   "socials": {},
   "config": {},
-  "themeName": "garden",
+  "themeName": "card",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2024-12-19T06:55:03.742Z",
-  "updatedAt": "2024-12-19T07:04:22.063Z",
+  "updatedAt": "2024-12-19T07:07:56.393Z",
   "userId": "995e2cd9-9782-48fe-b246-e583b4f19759",
   "domains": [
     {
@@ -29,6 +29,22 @@
       "domain": "995e2cd9-9782-48fe-b246-e583b4f19759",
       "isSubdomain": true,
       "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "7ffccfb4-11a8-41ea-9c64-fe4413bba7ed"
+    },
+    {
+      "id": "f06df487-18f3-436a-91f5-82aa045cce90",
+      "domain": "kenisad",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
+      "disabled": false,
+      "siteId": "7ffccfb4-11a8-41ea-9c64-fe4413bba7ed"
+    },
+    {
+      "id": "ae4edf2d-68a9-400a-a454-4a706731d349",
+      "domain": "xyz.for.kenisad.com",
+      "isSubdomain": false,
+      "subdomainType": "None",
       "disabled": false,
       "siteId": "7ffccfb4-11a8-41ea-9c64-fe4413bba7ed"
     }
