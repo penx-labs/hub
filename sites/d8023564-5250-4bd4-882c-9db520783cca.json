@@ -1,0 +1,36 @@
+{
+  "id": "d8023564-5250-4bd4-882c-9db520783cca",
+  "name": "ChiLei Jiang",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocLmgkQOddY4GZiqzctPsWvhanFd2QlEq8i0oHBRkiygJ1kQoQ=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-19T09:47:30.713Z",
+  "updatedAt": "2024-12-19T09:49:49.006Z",
+  "userId": "6ad661ea-325a-437e-baf2-1be3cc1ecf98",
+  "domains": [
+    {
+      "id": "983148c5-7081-403e-96dd-7274ae844ca4",
+      "domain": "6ad661ea-325a-437e-baf2-1be3cc1ecf98",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "d8023564-5250-4bd4-882c-9db520783cca"
+    }
+  ]
+}
