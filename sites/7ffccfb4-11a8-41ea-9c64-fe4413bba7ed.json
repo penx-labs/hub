@@ -1,0 +1,36 @@
+{
+  "id": "7ffccfb4-11a8-41ea-9c64-fe4413bba7ed",
+  "name": "hui liu",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "kenisad",
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocK2xuosKH--anwdKvOKvepEf4dkUYN4QTI_Zq6RDAFGsUH4gA=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-19T06:55:03.742Z",
+  "updatedAt": "2024-12-19T07:04:18.346Z",
+  "userId": "995e2cd9-9782-48fe-b246-e583b4f19759",
+  "domains": [
+    {
+      "id": "79770eb1-3f22-4819-a034-3c6b4026945b",
+      "domain": "995e2cd9-9782-48fe-b246-e583b4f19759",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "7ffccfb4-11a8-41ea-9c64-fe4413bba7ed"
+    }
+  ]
+}
