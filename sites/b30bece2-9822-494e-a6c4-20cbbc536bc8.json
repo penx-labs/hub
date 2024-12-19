@@ -1,0 +1,36 @@
+{
+  "id": "b30bece2-9822-494e-a6c4-20cbbc536bc8",
+  "name": "Nikita Zhenev",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocIKbJ9Gxp8eI6NmYdrI7IEeFPCek7yed_kf-gJsNOumMz88WQ=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "micro",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-19T20:55:53.277Z",
+  "updatedAt": "2024-12-19T20:57:53.602Z",
+  "userId": "31b0e5ea-9891-4290-93c1-6e1fc398fe0c",
+  "domains": [
+    {
+      "id": "8890f856-a755-4c9a-98cf-7901652adfd0",
+      "domain": "31b0e5ea-9891-4290-93c1-6e1fc398fe0c",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "b30bece2-9822-494e-a6c4-20cbbc536bc8"
+    }
+  ]
+}
