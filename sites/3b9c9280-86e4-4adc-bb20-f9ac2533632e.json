@@ -3,7 +3,7 @@
   "name": "马航",
   "description": "My personal site",
   "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
-  "spaceId": null,
+  "spaceId": "phantomma",
   "logo": "https://lh3.googleusercontent.com/a/ACg8ocKKksVyKPO-Cz699UoD3f32jT5L7w50btN9mv-zJz7RfQImd8eS=s96-c",
   "font": "font-cal",
   "image": "",
@@ -21,7 +21,7 @@
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2024-12-19T11:03:44.360Z",
-  "updatedAt": "2024-12-19T11:10:27.408Z",
+  "updatedAt": "2024-12-19T11:11:04.884Z",
   "userId": "a8e46186-f277-43dc-84aa-cca224c8f08e",
   "domains": [
     {
