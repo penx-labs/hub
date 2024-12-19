@@ -1,0 +1,36 @@
+{
+  "id": "403ebce0-0105-4d37-bf79-91097bcd0af1",
+  "name": "0xbf21",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://penx.io/logo.png",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-19T13:33:42.622Z",
+  "updatedAt": "2024-12-19T13:37:25.109Z",
+  "userId": "208aa6df-914f-451d-90e1-6bd8b2bec4e4",
+  "domains": [
+    {
+      "id": "d24b2dd0-8aea-4210-8463-81fbb7f35e49",
+      "domain": "0xbf21b0444d8bc7de4e2b43ab4c773492221e4b30",
+      "isSubdomain": true,
+      "subdomainType": "Address",
+      "disabled": false,
+      "siteId": "403ebce0-0105-4d37-bf79-91097bcd0af1"
+    }
+  ]
+}
