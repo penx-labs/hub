@@ -1,0 +1,36 @@
+{
+  "id": "3b9c9280-86e4-4adc-bb20-f9ac2533632e",
+  "name": "马航",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocKKksVyKPO-Cz699UoD3f32jT5L7w50btN9mv-zJz7RfQImd8eS=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-19T11:03:44.360Z",
+  "updatedAt": "2024-12-19T11:10:27.408Z",
+  "userId": "a8e46186-f277-43dc-84aa-cca224c8f08e",
+  "domains": [
+    {
+      "id": "eb192778-7b0f-4fd3-a60e-17a86962b4d1",
+      "domain": "a8e46186-f277-43dc-84aa-cca224c8f08e",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "3b9c9280-86e4-4adc-bb20-f9ac2533632e"
+    }
+  ]
+}
