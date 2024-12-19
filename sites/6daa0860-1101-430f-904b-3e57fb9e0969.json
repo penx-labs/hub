@@ -1,0 +1,36 @@
+{
+  "id": "6daa0860-1101-430f-904b-3e57fb9e0969",
+  "name": "andy wang",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJguJIXudt33Psdd3Yf-9YS-hE0gpkNDJz-HGNdlKukoS78-w=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-19T08:59:02.102Z",
+  "updatedAt": "2024-12-19T08:59:19.023Z",
+  "userId": "eff24adb-822b-413b-96ff-552e44285fc8",
+  "domains": [
+    {
+      "id": "f17c5500-404c-4aac-ab15-ac767f53802a",
+      "domain": "eff24adb-822b-413b-96ff-552e44285fc8",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "6daa0860-1101-430f-904b-3e57fb9e0969"
+    }
+  ]
+}
