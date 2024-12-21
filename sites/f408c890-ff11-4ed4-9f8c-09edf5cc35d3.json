@@ -1,0 +1,36 @@
+{
+  "id": "f408c890-ff11-4ed4-9f8c-09edf5cc35d3",
+  "name": "Nino1100",
+  "description": "Excited to make friends, eran monye,and travel the world.\nLets connect and explore new opportunities together!",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xf6693B0c3878C7F1afAa62c135C15F37b5EeaDD2",
+  "logo": "https://i.imgur.com/uk7T7UQ.jpg",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-21T17:24:53.199Z",
+  "updatedAt": "2024-12-21T17:26:53.658Z",
+  "userId": "2cea67fb-1f7b-463c-809b-df0286ef524c",
+  "domains": [
+    {
+      "id": "38226ad5-ce68-406a-9a13-b399bbb03289",
+      "domain": "noshrush",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "f408c890-ff11-4ed4-9f8c-09edf5cc35d3"
+    }
+  ]
+}
