@@ -1,0 +1,36 @@
+{
+  "id": "91f7f4f7-af2c-437f-a0d2-73ea31a53dc1",
+  "name": "Farhan99 ",
+  "description": "I can do anything, except make her fall in love again ",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1cf69d55-f4d6-4629-5bab-5c367be4d100/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-22T11:53:25.535Z",
+  "updatedAt": "2024-12-22T12:05:08.362Z",
+  "userId": "6930300a-9a5f-4485-a60c-a09cf28bf7cc",
+  "domains": [
+    {
+      "id": "72c2fb63-df95-490b-8d6e-5c02fa5b5f25",
+      "domain": "farhan99",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "91f7f4f7-af2c-437f-a0d2-73ea31a53dc1"
+    }
+  ]
+}
