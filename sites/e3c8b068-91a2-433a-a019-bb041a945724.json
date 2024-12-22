@@ -1,0 +1,36 @@
+{
+  "id": "e3c8b068-91a2-433a-a019-bb041a945724",
+  "name": "Seungdo Hyun",
+  "description": "Contemporary Artist/ Physical/ Digital/ undgrnd @undrgrnd  https://linktr.ee/seungdohyun",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x34adDbaD2C99fEfB6A02E1d49848F037490A6Ed9",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d2c73ada-fcb4-44d2-45f9-46c03e3f6c00/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-22T03:09:03.301Z",
+  "updatedAt": "2024-12-22T03:11:51.077Z",
+  "userId": "6896bf1c-f876-436c-903d-271413a289c4",
+  "domains": [
+    {
+      "id": "c150bf21-1c0a-4783-990d-c12479c629bc",
+      "domain": "seungdo",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "e3c8b068-91a2-433a-a019-bb041a945724"
+    }
+  ]
+}
