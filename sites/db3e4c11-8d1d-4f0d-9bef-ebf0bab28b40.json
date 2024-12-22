@@ -1,0 +1,36 @@
+{
+  "id": "db3e4c11-8d1d-4f0d-9bef-ebf0bab28b40",
+  "name": "Tarek Ahmed Shepu",
+  "description": "I'm a freelancer and airdrop hunter.",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x7A66F9309b65cb17B4Ae0b3Fe201fb788B1697a0",
+  "logo": "https://i.imgur.com/5M2pos7.jpg",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-22T08:03:43.594Z",
+  "updatedAt": "2024-12-22T08:15:43.492Z",
+  "userId": "54047093-877e-4f93-a177-e774ab9ee87d",
+  "domains": [
+    {
+      "id": "5b83eebb-c570-4091-979d-195cd03f6b6c",
+      "domain": "sshshepu85",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "db3e4c11-8d1d-4f0d-9bef-ebf0bab28b40"
+    }
+  ]
+}
