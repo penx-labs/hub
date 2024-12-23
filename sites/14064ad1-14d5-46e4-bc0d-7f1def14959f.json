@@ -1,0 +1,36 @@
+{
+  "id": "14064ad1-14d5-46e4-bc0d-7f1def14959f",
+  "name": "Phạm Quốc Toản",
+  "description": "Funny day,happy every.mỗi ngày một niềm vui\nSống những gì mình có",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x2aBceb7b128A4fAC8c7F69d03C927853073886d2",
+  "logo": "https://i.imgur.com/UFanYXO.jpg",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-22T03:24:23.996Z",
+  "updatedAt": "2024-12-23T07:42:25.404Z",
+  "userId": "f448ac29-d742-4627-9ac9-8f7e68a7ea43",
+  "domains": [
+    {
+      "id": "58132eeb-e781-45eb-be12-9e7e7437bded",
+      "domain": "tiny7042",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "14064ad1-14d5-46e4-bc0d-7f1def14959f"
+    }
+  ]
+}
