@@ -1,0 +1,36 @@
+{
+  "id": "3ddea625-5a75-4c99-bb7c-9afe91d18e83",
+  "name": "beerguy.base.eth🍺’-🔵",
+  "description": "I sold all my DOGE at $0.74 | I never had a powerbadge | Bartending on /happyhour 🍺'-O beerguy.base.eth",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xb73344111FAf91bbFfe06a171cbE69f83D8B939A",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8c43b324-42f7-4ff0-d1cc-6236c5ac2000/original",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-18T22:51:31.216Z",
+  "updatedAt": "2024-12-23T14:10:07.130Z",
+  "userId": "b44c681f-32e9-43e2-9371-898b29417e85",
+  "domains": [
+    {
+      "id": "b7a0860e-52a4-4fb8-aea2-58e0bdf5ffb8",
+      "domain": "beerguy",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "3ddea625-5a75-4c99-bb7c-9afe91d18e83"
+    }
+  ]
+}
