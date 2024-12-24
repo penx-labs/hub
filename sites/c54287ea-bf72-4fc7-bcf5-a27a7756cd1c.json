@@ -1,0 +1,36 @@
+{
+  "id": "c54287ea-bf72-4fc7-bcf5-a27a7756cd1c",
+  "name": "Werhat",
+  "description": "BTC",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xc1A9Eb896414451616D33BaF597009F66AE5C376",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/d5073ee2-c95a-4e69-aa17-1fbbd45b6400/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-20T12:23:22.547Z",
+  "updatedAt": "2024-12-24T09:41:32.916Z",
+  "userId": "d071e02f-9971-457c-a0d6-d02d6883aec1",
+  "domains": [
+    {
+      "id": "630bd743-20ae-4299-b674-0c18682d8e5d",
+      "domain": "werhat",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "c54287ea-bf72-4fc7-bcf5-a27a7756cd1c"
+    }
+  ]
+}
