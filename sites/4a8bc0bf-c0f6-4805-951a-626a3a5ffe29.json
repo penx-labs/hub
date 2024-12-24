@@ -1,0 +1,36 @@
+{
+  "id": "4a8bc0bf-c0f6-4805-951a-626a3a5ffe29",
+  "name": "Akıncı",
+  "description": "Turk ninja",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xB36b78a2EF7E2f3eCeded9F999e17b1915aE5DcF",
+  "logo": "https://i.imgur.com/w0q22z9.jpg",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-24T06:05:01.190Z",
+  "updatedAt": "2024-12-24T07:10:55.909Z",
+  "userId": "a69359d6-d3f8-44f7-b41b-6aed72db9e08",
+  "domains": [
+    {
+      "id": "55f7f1e2-73e5-44f6-8cce-43120a31343a",
+      "domain": "rauftrkpls921837",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "4a8bc0bf-c0f6-4805-951a-626a3a5ffe29"
+    }
+  ]
+}
