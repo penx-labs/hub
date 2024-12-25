@@ -1,0 +1,36 @@
+{
+  "id": "79b65c55-c2f0-4935-97df-8a2306a6c730",
+  "name": "Cebe",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocL4_G-ak5CXJW0jSbhTgqXjIleNBWEpVoz0FZC1avx_ErKQlsbr=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-25T19:43:16.945Z",
+  "updatedAt": "2024-12-25T19:44:59.574Z",
+  "userId": "c288e75f-67c2-44ad-aa21-0bc90b4bf8b2",
+  "domains": [
+    {
+      "id": "5de749c0-e4cd-471d-80f7-ba363722df36",
+      "domain": "c288e75f-67c2-44ad-aa21-0bc90b4bf8b2",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "79b65c55-c2f0-4935-97df-8a2306a6c730"
+    }
+  ]
+}
