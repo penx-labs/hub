@@ -1,0 +1,36 @@
+{
+  "id": "06da9a26-493b-400b-8e0f-1fd7578b6f91",
+  "name": "Kyro Dr",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJJeplAUriIMXaBFlQQ-9YTZnL13U5td7Zp6IX7qYzyT4oTc6I=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-25T15:58:46.061Z",
+  "updatedAt": "2024-12-25T16:01:38.413Z",
+  "userId": "afb366e7-4a97-4295-95d1-7975f452c687",
+  "domains": [
+    {
+      "id": "798e3786-7ab6-44d3-8627-db1eeccc7506",
+      "domain": "afb366e7-4a97-4295-95d1-7975f452c687",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "06da9a26-493b-400b-8e0f-1fd7578b6f91"
+    }
+  ]
+}
