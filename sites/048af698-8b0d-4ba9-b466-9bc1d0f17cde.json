@@ -1,0 +1,36 @@
+{
+  "id": "048af698-8b0d-4ba9-b466-9bc1d0f17cde",
+  "name": "Loso",
+  "description": "New here",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xA74b0280101a73C082Ad409D5C0E3f663Ca49370",
+  "logo": "https://i.imgur.com/K2EDSQ9.jpg",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-24T03:40:52.560Z",
+  "updatedAt": "2024-12-26T03:39:17.772Z",
+  "userId": "f1c57b34-940a-4ec3-b28e-cf699cd07fe4",
+  "domains": [
+    {
+      "id": "26d22aac-fa6b-466d-89f2-e69be2d3dbe7",
+      "domain": "loso33",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "048af698-8b0d-4ba9-b466-9bc1d0f17cde"
+    }
+  ]
+}
