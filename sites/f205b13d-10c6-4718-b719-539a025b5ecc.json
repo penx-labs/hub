@@ -1,0 +1,36 @@
+{
+  "id": "f205b13d-10c6-4718-b719-539a025b5ecc",
+  "name": "Napoleon",
+  "description": "I am a graduate of psychology.  I enjoy music and am interested in cryptocurrency investment.",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xB617b484D10E98cc4a5eb96BE247232931F20257",
+  "logo": "https://i.imgur.com/sHgJAE9.jpg",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-28T19:21:48.702Z",
+  "updatedAt": "2024-12-28T19:22:57.260Z",
+  "userId": "161a2b3e-3c86-4b25-9b1a-ef3a7e783b68",
+  "domains": [
+    {
+      "id": "a6f9e09c-1173-402d-96d6-617413a552ec",
+      "domain": "napoleoniv",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "f205b13d-10c6-4718-b719-539a025b5ecc"
+    }
+  ]
+}
