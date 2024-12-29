@@ -1,0 +1,36 @@
+{
+  "id": "4b2ac347-db9f-442b-9d4b-7e151d30018b",
+  "name": "Vucute",
+  "description": "I like business and traveling",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xb91d8A65400693d3684f0AE00429804Ea514dBAB",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6c65612-dab0-4a19-5877-aede52d16f00/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-29T04:06:19.914Z",
+  "updatedAt": "2024-12-29T04:07:05.549Z",
+  "userId": "2d9fb88c-d2fe-4de8-8832-9d56723ca3b3",
+  "domains": [
+    {
+      "id": "1e740cf8-381a-4711-87c4-a4c6399b1dba",
+      "domain": "vulangtu",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "4b2ac347-db9f-442b-9d4b-7e151d30018b"
+    }
+  ]
+}
