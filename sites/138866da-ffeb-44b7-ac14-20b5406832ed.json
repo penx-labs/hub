@@ -1,0 +1,36 @@
+{
+  "id": "138866da-ffeb-44b7-ac14-20b5406832ed",
+  "name": "NORMANCOMICS",
+  "description": "\n\n\nCARTOONIST OF THE COMIC-STRIP NORMAN✍️normancomics.cent.co \nMEME-WARLORD: /thegoodlums\n@ bio.site/thegoodlums\n",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x39Bbff83F92762BD623cb1BCaf74C71587313157",
+  "logo": "https://imagedelivery.net/g4iQ0bIzMZrjFMgjAnSGfw/e9a255a1-43e9-4df3-73e5-cef7a9de1200/public",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-23T01:02:54.240Z",
+  "updatedAt": "2024-12-31T00:11:16.823Z",
+  "userId": "3d86096b-4ecb-4e21-b917-8cf08ee6e5b7",
+  "domains": [
+    {
+      "id": "08a74a40-da6f-48c1-9a8a-6add269c58cb",
+      "domain": "normancomics",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "138866da-ffeb-44b7-ac14-20b5406832ed"
+    }
+  ]
+}
