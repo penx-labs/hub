@@ -1,0 +1,36 @@
+{
+  "id": "21f1094e-b80f-4015-96cf-0c040bb6d67a",
+  "name": "zhenxing",
+  "description": "",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0xC1b39Def9c83Ecd3F7Fa1671FEd8d032978938F8",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85e38ab7-5175-48bf-70d0-cb3d9e329b00/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-01T07:22:28.734Z",
+  "updatedAt": "2025-01-01T07:23:26.434Z",
+  "userId": "8d93ee7c-5604-48ca-ab8e-72e26d66255c",
+  "domains": [
+    {
+      "id": "79b0a9e1-ff13-47a2-866b-fb9c42b8ddf1",
+      "domain": "zhenxing",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "21f1094e-b80f-4015-96cf-0c040bb6d67a"
+    }
+  ]
+}
