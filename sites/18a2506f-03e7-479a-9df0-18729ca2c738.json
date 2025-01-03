@@ -1,0 +1,36 @@
+{
+  "id": "18a2506f-03e7-479a-9df0-18729ca2c738",
+  "name": "Bruno Gomes",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "brunowego",
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocI_-Jg4MUc3N8h0Wfru9fnIHiaUl4KzYKK0QZbyRpF4sdZ_s3X7=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-03T23:48:52.795Z",
+  "updatedAt": "2025-01-03T23:49:28.870Z",
+  "userId": "67b72de5-e7b6-4fb5-b734-27bc50b14170",
+  "domains": [
+    {
+      "id": "8b47475f-6ac8-429c-ad6d-3fb395b50db3",
+      "domain": "67b72de5-e7b6-4fb5-b734-27bc50b14170",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "18a2506f-03e7-479a-9df0-18729ca2c738"
+    }
+  ]
+}
