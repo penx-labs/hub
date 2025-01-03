@@ -8,7 +8,7 @@
   "font": "font-cal",
   "image": "",
   "email": null,
-  "mode": "BASIC",
+  "mode": "NOTE_TAKING",
   "authSecret": null,
   "authType": "RAINBOW_KIT",
   "authConfig": null,
@@ -21,7 +21,7 @@
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-03T23:48:52.795Z",
-  "updatedAt": "2025-01-03T23:49:28.870Z",
+  "updatedAt": "2025-01-03T23:49:55.442Z",
   "userId": "67b72de5-e7b6-4fb5-b734-27bc50b14170",
   "domains": [
     {
@@ -29,6 +29,14 @@
       "domain": "67b72de5-e7b6-4fb5-b734-27bc50b14170",
       "isSubdomain": true,
       "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "18a2506f-03e7-479a-9df0-18729ca2c738"
+    },
+    {
+      "id": "2303dabb-6042-41c2-9b82-9f784c047008",
+      "domain": "brunowego",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
       "disabled": false,
       "siteId": "18a2506f-03e7-479a-9df0-18729ca2c738"
     }
