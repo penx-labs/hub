@@ -3,7 +3,7 @@
   "name": "Jack Lhasa",
   "description": " A mutant wolf-human hybrid caused by nuclear fallout, solar flares, Aztec prophecies, Persian poetry, Irish moonshine-blood, and American pharmacology.",
   "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"I’m a professional in the publishing industry, or, I used to be anyway. I’m developing a world in which stories take place and art is inspired. That might come herev I don’t know yet. I’ve already run into some problems. \"}]},{\"type\":\"p\",\"id\":\"121e7bf4-7d46-476e-ab83-3a4027bbbf3a\",\"children\":[{\"text\":\"My first post froze mid-paragraph, and I had to start over, leading to a much shorter entry. Also, I can’t claim the $PEN token for some reason. \"}]}]",
-  "spaceId": null,
+  "spaceId": "0x2C381eE7F58811050B92aA638b5e04F00e4ff711",
   "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3723baef-9daa-47d6-fee4-e7e5efef7000/rectcrop3",
   "font": "font-cal",
   "image": "",
@@ -21,7 +21,7 @@
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-04T03:21:18.843Z",
-  "updatedAt": "2025-01-04T14:26:10.873Z",
+  "updatedAt": "2025-01-04T14:31:09.758Z",
   "userId": "f09b530e-750d-4e8d-905e-6958bf79de2d",
   "domains": [
     {
@@ -29,6 +29,14 @@
       "domain": "jacklhasa",
       "isSubdomain": true,
       "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "273ff392-9fee-484b-9712-44161b7b8b86"
+    },
+    {
+      "id": "e96d6b42-12f9-4729-8ed4-ef472acf121e",
+      "domain": "exoteric",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
       "disabled": false,
       "siteId": "273ff392-9fee-484b-9712-44161b7b8b86"
     }
