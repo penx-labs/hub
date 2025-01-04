@@ -14,14 +14,25 @@
   "authConfig": null,
   "storageProvider": "IPFS",
   "storageConfig": null,
-  "socials": {},
+  "socials": {
+    "x": "",
+    "github": "",
+    "medium": "",
+    "threads": "",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "mastodon": "",
+    "farcaster": "https://warpcast.com/jacklhasa",
+    "instagram": ""
+  },
   "config": {},
   "themeName": "card",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-04T03:21:18.843Z",
-  "updatedAt": "2025-01-04T14:32:42.944Z",
+  "updatedAt": "2025-01-04T14:34:06.471Z",
   "userId": "f09b530e-750d-4e8d-905e-6958bf79de2d",
   "domains": [
     {
