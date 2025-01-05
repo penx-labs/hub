@@ -1,0 +1,36 @@
+{
+  "id": "e3c41515-d7f7-413e-9f1b-2a05daafc2f7",
+  "name": "Eric Pan",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "eric",
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocKDXVVZ66bPPfXiQoCfCioLwDNOyhbPx3xa5Zau6AxUyBUBD-n_=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-05T09:06:48.920Z",
+  "updatedAt": "2025-01-05T09:27:02.132Z",
+  "userId": "6e6922db-4dd9-43cc-8b89-8b3decc9a923",
+  "domains": [
+    {
+      "id": "4794f87c-0945-460a-bae1-40dea1f966e7",
+      "domain": "6e6922db-4dd9-43cc-8b89-8b3decc9a923",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "e3c41515-d7f7-413e-9f1b-2a05daafc2f7"
+    }
+  ]
+}
