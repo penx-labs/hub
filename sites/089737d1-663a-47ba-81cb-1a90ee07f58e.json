@@ -16,12 +16,12 @@
   "storageConfig": null,
   "socials": {},
   "config": {},
-  "themeName": "minimal",
+  "themeName": "micro",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-04T23:54:09.877Z",
-  "updatedAt": "2025-01-05T00:00:39.018Z",
+  "updatedAt": "2025-01-05T00:02:11.348Z",
   "userId": "36a7761f-4a79-402b-be1e-dc9252311ccc",
   "domains": [
     {
@@ -29,6 +29,14 @@
       "domain": "36a7761f-4a79-402b-be1e-dc9252311ccc",
       "isSubdomain": true,
       "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "089737d1-663a-47ba-81cb-1a90ee07f58e"
+    },
+    {
+      "id": "58d8d4c5-d669-4622-b42d-b90a676f3ff5",
+      "domain": "me",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
       "disabled": false,
       "siteId": "089737d1-663a-47ba-81cb-1a90ee07f58e"
     }
