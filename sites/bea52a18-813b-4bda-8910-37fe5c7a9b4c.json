@@ -1,0 +1,36 @@
+{
+  "id": "bea52a18-813b-4bda-8910-37fe5c7a9b4c",
+  "name": "Pp Dd",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocInZOtVrP9Qmm0_RVQOlRZVfUPHKtPYd5wFkVzJi1Rhlpxfnas=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-05T11:28:30.591Z",
+  "updatedAt": "2025-01-05T11:34:35.881Z",
+  "userId": "d7d45ed6-82bf-4f28-ae98-925f61f90838",
+  "domains": [
+    {
+      "id": "f304003d-0b4b-48cc-ad35-67793791bf42",
+      "domain": "d7d45ed6-82bf-4f28-ae98-925f61f90838",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "bea52a18-813b-4bda-8910-37fe5c7a9b4c"
+    }
+  ]
+}
