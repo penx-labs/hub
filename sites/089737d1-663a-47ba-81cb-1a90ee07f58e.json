@@ -1,0 +1,36 @@
+{
+  "id": "089737d1-663a-47ba-81cb-1a90ee07f58e",
+  "name": "Jiangshan",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocLZ1FVikl1bYAljPZu8O3C-xtx4vi98c_tnvZYjsBecGOVZuIwa=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "minimal",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-04T23:54:09.877Z",
+  "updatedAt": "2025-01-05T00:00:07.943Z",
+  "userId": "36a7761f-4a79-402b-be1e-dc9252311ccc",
+  "domains": [
+    {
+      "id": "434a9600-404b-4658-972d-4477941ad864",
+      "domain": "36a7761f-4a79-402b-be1e-dc9252311ccc",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "089737d1-663a-47ba-81cb-1a90ee07f58e"
+    }
+  ]
+}
