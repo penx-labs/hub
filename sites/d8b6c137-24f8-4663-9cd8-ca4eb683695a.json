@@ -1,0 +1,36 @@
+{
+  "id": "d8b6c137-24f8-4663-9cd8-ca4eb683695a",
+  "name": "Dora away",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJXN0clMcnLp8QyxuIQY9lI4GA_3BmW6aX7IfjM0xiOSZbr0vc-=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-05T08:04:46.583Z",
+  "updatedAt": "2025-01-05T08:05:23.077Z",
+  "userId": "a8a915db-ca03-4950-b70c-88c7b8e12ce9",
+  "domains": [
+    {
+      "id": "74beed3b-c697-41c4-a90d-0e8bb349a176",
+      "domain": "a8a915db-ca03-4950-b70c-88c7b8e12ce9",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "d8b6c137-24f8-4663-9cd8-ca4eb683695a"
+    }
+  ]
+}
