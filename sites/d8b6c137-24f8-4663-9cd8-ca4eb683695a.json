@@ -16,12 +16,12 @@
   "storageConfig": null,
   "socials": {},
   "config": {},
-  "themeName": "photo",
+  "themeName": "garden",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-05T08:04:46.583Z",
-  "updatedAt": "2025-01-05T08:56:07.104Z",
+  "updatedAt": "2025-01-05T08:56:47.624Z",
   "userId": "a8a915db-ca03-4950-b70c-88c7b8e12ce9",
   "domains": [
     {
@@ -29,6 +29,14 @@
       "domain": "a8a915db-ca03-4950-b70c-88c7b8e12ce9",
       "isSubdomain": true,
       "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "d8b6c137-24f8-4663-9cd8-ca4eb683695a"
+    },
+    {
+      "id": "a1af08de-ce97-4a36-b52c-a94502c9c1da",
+      "domain": "sex",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
       "disabled": false,
       "siteId": "d8b6c137-24f8-4663-9cd8-ca4eb683695a"
     }
