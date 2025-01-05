@@ -3,7 +3,7 @@
   "name": "Jiangshan",
   "description": "My personal site",
   "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
-  "spaceId": null,
+  "spaceId": "me",
   "logo": "https://lh3.googleusercontent.com/a/ACg8ocLZ1FVikl1bYAljPZu8O3C-xtx4vi98c_tnvZYjsBecGOVZuIwa=s96-c",
   "font": "font-cal",
   "image": "",
@@ -21,7 +21,7 @@
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-04T23:54:09.877Z",
-  "updatedAt": "2025-01-05T00:00:07.943Z",
+  "updatedAt": "2025-01-05T00:00:27.752Z",
   "userId": "36a7761f-4a79-402b-be1e-dc9252311ccc",
   "domains": [
     {
