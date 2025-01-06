@@ -1,0 +1,36 @@
+{
+  "id": "eb29f3e6-4182-4484-a8a2-6a89639ba905",
+  "name": "6_lanez",
+  "description": "Where do I go from here?\nTo the Left where nothing is Right?\nOr to the Right where nothing is Left?",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"MF DOOM \"}]},{\"type\":\"p\",\"id\":\"72d9dc34-fd01-4de0-8d0f-db84c51d9148\",\"children\":[{\"text\":\"Your brain dead trying to figure me out.\"}]},{\"type\":\"p\",\"id\":\"48fc698b-5c67-4c8a-8ea5-01f6d71e96e6\",\"children\":[{\"text\":\"Kill that switch or I kill you.\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocI4vtQTXSKfYsjuep6nFydxM7WQbFOaKTSKrf_quaWGimXrecHJ=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-06T08:15:11.207Z",
+  "updatedAt": "2025-01-06T08:19:04.176Z",
+  "userId": "3f3f9dcb-a472-45a8-b0cc-8d7dee8c8f98",
+  "domains": [
+    {
+      "id": "a2341bbc-e5e7-4571-95f2-610c1e26e0f3",
+      "domain": "3f3f9dcb-a472-45a8-b0cc-8d7dee8c8f98",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "eb29f3e6-4182-4484-a8a2-6a89639ba905"
+    }
+  ]
+}
