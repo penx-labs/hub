@@ -8,7 +8,7 @@
   "font": "font-cal",
   "image": "",
   "email": null,
-  "mode": "BASIC",
+  "mode": "NOTE_TAKING",
   "authSecret": null,
   "authType": "RAINBOW_KIT",
   "authConfig": null,
@@ -21,7 +21,7 @@
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-06T08:15:11.207Z",
-  "updatedAt": "2025-01-06T08:20:49.870Z",
+  "updatedAt": "2025-01-06T08:23:58.027Z",
   "userId": "3f3f9dcb-a472-45a8-b0cc-8d7dee8c8f98",
   "domains": [
     {
@@ -29,6 +29,22 @@
       "domain": "3f3f9dcb-a472-45a8-b0cc-8d7dee8c8f98",
       "isSubdomain": true,
       "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "eb29f3e6-4182-4484-a8a2-6a89639ba905"
+    },
+    {
+      "id": "51d6d388-e631-465f-83af-3deb542b5d5c",
+      "domain": "kumaor.penx.io",
+      "isSubdomain": false,
+      "subdomainType": "None",
+      "disabled": false,
+      "siteId": "eb29f3e6-4182-4484-a8a2-6a89639ba905"
+    },
+    {
+      "id": "e03a90aa-bb58-4afb-9173-def23b235920",
+      "domain": "kumaor",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
       "disabled": false,
       "siteId": "eb29f3e6-4182-4484-a8a2-6a89639ba905"
     }
