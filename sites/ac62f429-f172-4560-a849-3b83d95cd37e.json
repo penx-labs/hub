@@ -1,0 +1,36 @@
+{
+  "id": "ac62f429-f172-4560-a849-3b83d95cd37e",
+  "name": "KoYo Nan (落灰废稿)",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocIOnquPIW5TFCQcJpueI-AErJDlNav1tzsm9URyN3mRXqkMpRx5=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-06T08:36:30.551Z",
+  "updatedAt": "2025-01-06T08:44:17.498Z",
+  "userId": "c078954f-3ff5-4da6-bfeb-4793d4306c32",
+  "domains": [
+    {
+      "id": "58342a44-7f96-455f-8947-99964a5f655f",
+      "domain": "c078954f-3ff5-4da6-bfeb-4793d4306c32",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "ac62f429-f172-4560-a849-3b83d95cd37e"
+    }
+  ]
+}
