@@ -1,0 +1,36 @@
+{
+  "id": "0c7581bc-abbc-4651-a04e-2cbc89d92c08",
+  "name": "Shakibvfa",
+  "description": "Anatomytrade",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x50557aEA3A2aF590927A1f7Ff8EA9Fd4Aa91b19b",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/c59e0dfd-0c9f-413a-3d97-1cf78eb9de00/rectcrop3",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-07T09:00:58.390Z",
+  "updatedAt": "2025-01-07T10:29:07.111Z",
+  "userId": "feb1fb98-6a07-443b-8d55-7e9a490e7517",
+  "domains": [
+    {
+      "id": "0e0f8869-5811-49e8-ac08-22123cb800d4",
+      "domain": "shakibvfa",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "0c7581bc-abbc-4651-a04e-2cbc89d92c08"
+    }
+  ]
+}
