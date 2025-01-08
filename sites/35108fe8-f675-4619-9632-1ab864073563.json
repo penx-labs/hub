@@ -1,0 +1,36 @@
+{
+  "id": "35108fe8-f675-4619-9632-1ab864073563",
+  "name": "Josh Owens",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x2C381eE7F58811050B92aA638b5e04F00e4ff711",
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJag6y1nJuIR8fH6_KseVmf943N3OswGVorYywo8igrp49M-e0A=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-08T21:38:01.552Z",
+  "updatedAt": "2025-01-08T21:45:00.241Z",
+  "userId": "61f53da4-57bf-41e9-b5f9-53bc5a9c2ecc",
+  "domains": [
+    {
+      "id": "f7d3ebca-4eff-4564-9e98-9f69a3d6d15c",
+      "domain": "61f53da4-57bf-41e9-b5f9-53bc5a9c2ecc",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "35108fe8-f675-4619-9632-1ab864073563"
+    }
+  ]
+}
