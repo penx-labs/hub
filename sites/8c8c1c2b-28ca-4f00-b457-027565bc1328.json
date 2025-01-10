@@ -1,0 +1,36 @@
+{
+  "id": "8c8c1c2b-28ca-4f00-b457-027565bc1328",
+  "name": "Zion",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJ_bgIMlEeGNoFm2z61oiBtu9EfZOhwVau44kB_YuTMTMHQ5wA=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "NOTE_TAKING",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2024-12-10T12:33:03.541Z",
+  "updatedAt": "2025-01-10T02:22:33.778Z",
+  "userId": "02ed919b-3248-4b38-9ea3-78d4b8eae2e9",
+  "domains": [
+    {
+      "id": "a45c3f28-1719-4d44-b967-b542d2225449",
+      "domain": "02ed919b-3248-4b38-9ea3-78d4b8eae2e9",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "8c8c1c2b-28ca-4f00-b457-027565bc1328"
+    }
+  ]
+}
