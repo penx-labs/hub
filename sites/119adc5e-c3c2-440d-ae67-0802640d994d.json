@@ -1,0 +1,36 @@
+{
+  "id": "119adc5e-c3c2-440d-ae67-0802640d994d",
+  "name": "Eric Arrington",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocLEEkk-Q8srHzuO4rQHRJMiB7t36rAk3UDnQI5eGPCCjTxSsSs=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "micro",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-18T06:37:22.627Z",
+  "updatedAt": "2025-01-18T06:38:09.743Z",
+  "userId": "637b96dc-9436-48c6-b51e-0e780ea9dde3",
+  "domains": [
+    {
+      "id": "3f449924-c1f0-43e5-ab44-e14e82df91bf",
+      "domain": "637b96dc-9436-48c6-b51e-0e780ea9dde3",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "119adc5e-c3c2-440d-ae67-0802640d994d"
+    }
+  ]
+}
