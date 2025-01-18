@@ -16,12 +16,12 @@
   "storageConfig": null,
   "socials": {},
   "config": {},
-  "themeName": "micro",
+  "themeName": "garden",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-18T13:59:23.255Z",
-  "updatedAt": "2025-01-18T14:42:32.860Z",
+  "updatedAt": "2025-01-18T15:13:21.669Z",
   "userId": "81039776-5237-4153-9c62-7a39be765b55",
   "domains": [
     {
@@ -35,6 +35,14 @@
     {
       "id": "5a8b8e85-bf70-4f82-8c95-22a413dcd461",
       "domain": "tavakol",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
+      "disabled": false,
+      "siteId": "f8a49667-f024-46a2-804b-9181ea6744d0"
+    },
+    {
+      "id": "d077220e-0c83-47d4-9117-ca567418170a",
+      "domain": "tavakkol",
       "isSubdomain": true,
       "subdomainType": "Custom",
       "disabled": false,
