@@ -3,7 +3,7 @@
   "name": "Ehsan Azhdari weblog",
   "description": "تحلیلگر ارشد داده",
   "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"نوشته هایی در مورد دیتا ساینس\"}]}]",
-  "spaceId": null,
+  "spaceId": "eazhdari",
   "logo": "https://lh3.googleusercontent.com/a/ACg8ocKHjDNw8pYzx-_QV5fPTdxSBHrl4O1tLKq85s-vW9UO8YbSEV4UBg=s96-c",
   "font": "font-cal",
   "image": "",
@@ -21,7 +21,7 @@
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-18T12:12:04.406Z",
-  "updatedAt": "2025-01-18T13:40:16.313Z",
+  "updatedAt": "2025-01-18T13:40:40.653Z",
   "userId": "fcb802de-4b05-4fa4-bfc8-ef5e44c2abcb",
   "domains": [
     {
