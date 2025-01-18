@@ -16,12 +16,12 @@
   "storageConfig": null,
   "socials": {},
   "config": {},
-  "themeName": "minimal",
+  "themeName": "card",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 0,
   "createdAt": "2025-01-18T10:38:49.718Z",
-  "updatedAt": "2025-01-18T10:41:24.943Z",
+  "updatedAt": "2025-01-18T10:45:04.805Z",
   "userId": "260aed42-047b-4d3a-a711-e8df2f256286",
   "domains": [
     {
@@ -29,6 +29,14 @@
       "domain": "260aed42-047b-4d3a-a711-e8df2f256286",
       "isSubdomain": true,
       "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "88cae90b-b8e3-43dd-b00a-f4a185012d29"
+    },
+    {
+      "id": "278dd045-8137-4373-9bbb-c44d86f515d1",
+      "domain": "mo",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
       "disabled": false,
       "siteId": "88cae90b-b8e3-43dd-b00a-f4a185012d29"
     }
