@@ -1,0 +1,36 @@
+{
+  "id": "e57d7911-cb93-4a4e-bb0c-ca7099dbb2c9",
+  "name": "احسان اژدری",
+  "description": "تحلیلگر ارشد داده",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"نوشته هایی در مورد دیتا ساینس\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocKHjDNw8pYzx-_QV5fPTdxSBHrl4O1tLKq85s-vW9UO8YbSEV4UBg=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-18T12:12:04.406Z",
+  "updatedAt": "2025-01-18T13:36:43.636Z",
+  "userId": "fcb802de-4b05-4fa4-bfc8-ef5e44c2abcb",
+  "domains": [
+    {
+      "id": "d95aec36-546c-4bc2-860a-902ee6fd2fca",
+      "domain": "fcb802de-4b05-4fa4-bfc8-ef5e44c2abcb",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "e57d7911-cb93-4a4e-bb0c-ca7099dbb2c9"
+    }
+  ]
+}
