@@ -1,0 +1,36 @@
+{
+  "id": "88cae90b-b8e3-43dd-b00a-f4a185012d29",
+  "name": "Mohamed Attia",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJiiLJkH0AB2VduYfFjdIfaSqauOKRYH-9ZPw0B5whkflSHZA=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "minimal",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-18T10:38:49.718Z",
+  "updatedAt": "2025-01-18T10:41:24.943Z",
+  "userId": "260aed42-047b-4d3a-a711-e8df2f256286",
+  "domains": [
+    {
+      "id": "b9dd9ec1-f6a9-4179-b358-a4fcbcbfd5ff",
+      "domain": "260aed42-047b-4d3a-a711-e8df2f256286",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "88cae90b-b8e3-43dd-b00a-f4a185012d29"
+    }
+  ]
+}
