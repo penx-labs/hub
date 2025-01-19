@@ -1,0 +1,52 @@
+{
+  "id": "f2f76b48-354c-43b5-8b1e-7cae6b16cd83",
+  "name": "Ludo Guy",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocIW6Xn63ltpYeRpR4keP-ufo7ExpgvEEdqqwuHDxfNKJbdGbQ=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "micro",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-19T13:34:08.711Z",
+  "updatedAt": "2025-01-19T13:51:20.422Z",
+  "userId": "e8b6bb36-6ee9-4ed4-b089-0984abd9f9c4",
+  "domains": [
+    {
+      "id": "3e874cb6-15fb-45ab-8e9f-9f598ab2d0eb",
+      "domain": "e8b6bb36-6ee9-4ed4-b089-0984abd9f9c4",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "f2f76b48-354c-43b5-8b1e-7cae6b16cd83"
+    },
+    {
+      "id": "979cbcfc-e499-4ffc-9f46-2e4f9d824919",
+      "domain": "vxteam-test",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
+      "disabled": false,
+      "siteId": "f2f76b48-354c-43b5-8b1e-7cae6b16cd83"
+    },
+    {
+      "id": "41fce880-bb17-4aa0-9abd-a5fddb6a1c95",
+      "domain": "testawefwef.com",
+      "isSubdomain": false,
+      "subdomainType": "None",
+      "disabled": false,
+      "siteId": "f2f76b48-354c-43b5-8b1e-7cae6b16cd83"
+    }
+  ]
+}
