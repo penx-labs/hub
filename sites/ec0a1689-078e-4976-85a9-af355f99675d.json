@@ -1,0 +1,36 @@
+{
+  "id": "ec0a1689-078e-4976-85a9-af355f99675d",
+  "name": "Boris Britva",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "laseroar",
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJhBHJWfecumZJkPOzsglHf7-qJGhde5BAp-Y0nDUQGGxeZkOc=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-01-20T15:59:21.515Z",
+  "updatedAt": "2025-01-20T16:00:12.936Z",
+  "userId": "22c3e497-f957-42af-ad0c-cb8a03acf927",
+  "domains": [
+    {
+      "id": "85b43a26-f9b4-44a0-9e01-a1dd174e54e9",
+      "domain": "22c3e497-f957-42af-ad0c-cb8a03acf927",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "ec0a1689-078e-4976-85a9-af355f99675d"
+    }
+  ]
+}
