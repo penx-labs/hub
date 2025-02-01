@@ -1,0 +1,36 @@
+{
+  "id": "0256370a-bf4a-4347-a1b6-f9cd42c03e74",
+  "name": "ZENRG",
+  "description": "THE ZENERGY IS ABOUT TO SHIFT",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://penx.io/logo.png",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-02-01T21:17:11.193Z",
+  "updatedAt": "2025-02-01T21:32:24.328Z",
+  "userId": "479d0be6-d3ae-4416-8aa1-251a55e43010",
+  "domains": [
+    {
+      "id": "897d623b-8808-4381-8f82-f9467f34ab44",
+      "domain": "0x9312fabb066e397973d1fd14b155e3d287ee73df",
+      "isSubdomain": true,
+      "subdomainType": "Address",
+      "disabled": false,
+      "siteId": "0256370a-bf4a-4347-a1b6-f9cd42c03e74"
+    }
+  ]
+}
