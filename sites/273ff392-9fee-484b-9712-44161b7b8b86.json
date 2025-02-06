@@ -16,7 +16,7 @@
   "storageConfig": null,
   "socials": {
     "x": "",
-    "github": "",
+    "github": "Https://github.com/jacklhasa",
     "medium": "",
     "threads": "",
     "youtube": "",
@@ -26,13 +26,20 @@
     "farcaster": "https://warpcast.com/jacklhasa",
     "instagram": ""
   },
-  "config": {},
+  "config": {
+    "features": {
+      "page": true,
+      "gallery": true,
+      "journal": true,
+      "database": true
+    }
+  },
   "themeName": "card",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 14,
   "createdAt": "2025-01-04T03:21:18.843Z",
-  "updatedAt": "2025-02-06T03:39:28.214Z",
+  "updatedAt": "2025-02-06T03:40:48.553Z",
   "userId": "f09b530e-750d-4e8d-905e-6958bf79de2d",
   "domains": [
     {
