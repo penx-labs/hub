@@ -19,16 +19,16 @@
     "features": {
       "page": true,
       "gallery": true,
-      "journal": true,
+      "journal": false,
       "database": false
     }
   },
-  "themeName": "minimal",
+  "themeName": "publication",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 6,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-06T08:04:43.026Z",
+  "updatedAt": "2025-02-07T15:31:32.119Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
