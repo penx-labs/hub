@@ -15,13 +15,20 @@
   "storageProvider": "IPFS",
   "storageConfig": null,
   "socials": {},
-  "config": {},
-  "themeName": "minimal",
+  "config": {
+    "features": {
+      "page": false,
+      "gallery": false,
+      "journal": false,
+      "database": false
+    }
+  },
+  "themeName": "publication",
   "themeConfig": null,
   "memberCount": 0,
-  "postCount": 0,
+  "postCount": 11,
   "createdAt": "2024-12-03T15:28:26.761Z",
-  "updatedAt": "2024-12-18T12:18:44.071Z",
+  "updatedAt": "2025-02-08T02:15:34.503Z",
   "userId": "aa58f8db-e1f6-46ae-8a14-531aa17b525d",
   "domains": [
     {
