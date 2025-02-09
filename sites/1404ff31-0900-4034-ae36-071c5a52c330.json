@@ -1,0 +1,44 @@
+{
+  "id": "1404ff31-0900-4034-ae36-071c5a52c330",
+  "name": "Ahtoh Yu",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocLaURbnpACRI6TJ4Zo8JoQiBK4Pq1l_vxoj-7-5PYOmuRvBJ0G1XQ=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "publication",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-02-09T12:15:36.127Z",
+  "updatedAt": "2025-02-09T12:35:44.418Z",
+  "userId": "c65c4092-5c67-410f-91db-3e3ce0d9c298",
+  "domains": [
+    {
+      "id": "0b49b57d-23bd-4a41-b84a-cb291b899204",
+      "domain": "c65c4092-5c67-410f-91db-3e3ce0d9c298",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "1404ff31-0900-4034-ae36-071c5a52c330"
+    },
+    {
+      "id": "6ebb0fc0-6483-49bd-9931-e20256d4b8fc",
+      "domain": "yao",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
+      "disabled": false,
+      "siteId": "1404ff31-0900-4034-ae36-071c5a52c330"
+    }
+  ]
+}
