@@ -23,13 +23,44 @@
       "database": false
     }
   },
-  "navLinks": null,
-  "themeName": "garden",
+  "navLinks": [
+    {
+      "type": "BUILTIN",
+      "title": "Home",
+      "visible": true,
+      "pathname": "/"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Posts",
+      "visible": true,
+      "pathname": "/posts"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Tags",
+      "visible": true,
+      "pathname": "/tags"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "About",
+      "visible": true,
+      "pathname": "/about"
+    },
+    {
+      "type": "PAGE",
+      "title": "Project",
+      "visible": true,
+      "pathname": "/p/project"
+    }
+  ],
+  "themeName": "publication",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 7,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-09T13:24:56.929Z",
+  "updatedAt": "2025-02-09T15:25:25.157Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
