@@ -23,12 +23,13 @@
       "database": false
     }
   },
-  "themeName": "publication",
+  "navLinks": null,
+  "themeName": "garden",
   "themeConfig": null,
   "memberCount": 0,
-  "postCount": 6,
+  "postCount": 7,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-07T15:31:32.119Z",
+  "updatedAt": "2025-02-09T13:24:56.929Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
@@ -36,6 +37,14 @@
       "domain": "0xzio",
       "isSubdomain": true,
       "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "e9192cb6-4289-406f-81d0-c9f9ff7d3d68"
+    },
+    {
+      "id": "99befa0f-575c-408d-9e60-100b762d9643",
+      "domain": "zio",
+      "isSubdomain": true,
+      "subdomainType": "Custom",
       "disabled": false,
       "siteId": "e9192cb6-4289-406f-81d0-c9f9ff7d3d68"
     }
