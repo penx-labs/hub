@@ -1,0 +1,36 @@
+{
+  "id": "d9841933-8ae9-4473-8039-1e94937c271d",
+  "name": "Jor",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJmorpBh5dGK6OllAdjYWPqN_2ZHRfDk5cvgW_nfFyyTLPa49sh=s96-c",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "themeName": "garden",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-02-09T11:44:54.302Z",
+  "updatedAt": "2025-02-09T11:58:15.900Z",
+  "userId": "a4592f25-b6ac-4e49-bf27-eb9183f7e1c3",
+  "domains": [
+    {
+      "id": "7d816769-3a38-46be-965f-6e30d461b38a",
+      "domain": "a4592f25-b6ac-4e49-bf27-eb9183f7e1c3",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "d9841933-8ae9-4473-8039-1e94937c271d"
+    }
+  ]
+}
