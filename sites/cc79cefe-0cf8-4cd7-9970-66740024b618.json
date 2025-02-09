@@ -39,7 +39,7 @@
     {
       "type": "BUILTIN",
       "title": "Tags",
-      "visible": true,
+      "visible": false,
       "pathname": "/tags"
     },
     {
@@ -54,7 +54,7 @@
   "memberCount": 0,
   "postCount": 11,
   "createdAt": "2024-12-03T15:28:26.761Z",
-  "updatedAt": "2025-02-09T13:28:02.320Z",
+  "updatedAt": "2025-02-09T13:28:12.253Z",
   "userId": "aa58f8db-e1f6-46ae-8a14-531aa17b525d",
   "domains": [
     {
