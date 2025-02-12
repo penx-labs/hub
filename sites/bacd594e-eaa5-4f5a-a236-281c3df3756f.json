@@ -15,14 +15,52 @@
   "storageProvider": "IPFS",
   "storageConfig": null,
   "socials": {},
-  "config": {},
-  "navLinks": null,
+  "config": {
+    "features": {
+      "page": true,
+      "gallery": false,
+      "journal": false,
+      "database": false
+    }
+  },
+  "navLinks": [
+    {
+      "type": "BUILTIN",
+      "title": "Home",
+      "visible": true,
+      "pathname": "/"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Posts",
+      "visible": true,
+      "pathname": "/posts"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Tags",
+      "visible": true,
+      "pathname": "/tags"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "About",
+      "visible": true,
+      "pathname": "/about"
+    },
+    {
+      "type": "PAGE",
+      "title": "Members",
+      "visible": true,
+      "pathname": "/p/members"
+    }
+  ],
   "themeName": "garden",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 1,
   "createdAt": "2025-01-04T02:17:12.784Z",
-  "updatedAt": "2025-02-12T05:18:06.615Z",
+  "updatedAt": "2025-02-12T05:30:44.385Z",
   "userId": "59da80c2-13b7-477e-8972-7d18e1cb2173",
   "domains": [
     {
@@ -34,8 +72,8 @@
       "siteId": "bacd594e-eaa5-4f5a-a236-281c3df3756f"
     },
     {
-      "id": "5e2a2426-da10-461b-b5ba-f1d58fe2117a",
-      "domain": "blog",
+      "id": "4c9a0537-b759-4cc2-9e6d-ee5460eb743a",
+      "domain": "oscat",
       "isSubdomain": true,
       "subdomainType": "Custom",
       "disabled": false,
