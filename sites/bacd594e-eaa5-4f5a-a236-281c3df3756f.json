@@ -1,7 +1,7 @@
 {
   "id": "bacd594e-eaa5-4f5a-a236-281c3df3756f",
   "name": "OSCat",
-  "description": "My personal site",
+  "description": "A open source cat",
   "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
   "spaceId": null,
   "logo": "/0b18a80ffa5f833c5fc6d29c889c833e47438edaf3e99a9db566bbefcaa935bd",
@@ -22,7 +22,7 @@
   "memberCount": 0,
   "postCount": 1,
   "createdAt": "2025-01-04T02:17:12.784Z",
-  "updatedAt": "2025-02-12T05:17:00.439Z",
+  "updatedAt": "2025-02-12T05:18:06.615Z",
   "userId": "59da80c2-13b7-477e-8972-7d18e1cb2173",
   "domains": [
     {
