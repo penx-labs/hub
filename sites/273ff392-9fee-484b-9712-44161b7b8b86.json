@@ -30,16 +30,42 @@
     "features": {
       "page": true,
       "gallery": true,
-      "journal": false,
+      "journal": true,
       "database": false
     }
   },
+  "navLinks": [
+    {
+      "type": "BUILTIN",
+      "title": "Home",
+      "visible": true,
+      "pathname": "/"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Posts",
+      "visible": true,
+      "pathname": "/posts"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Tags",
+      "visible": false,
+      "pathname": "/tags"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "About",
+      "visible": true,
+      "pathname": "/about"
+    }
+  ],
   "themeName": "garden",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 14,
   "createdAt": "2025-01-04T03:21:18.843Z",
-  "updatedAt": "2025-02-07T23:26:32.507Z",
+  "updatedAt": "2025-02-13T05:10:40.894Z",
   "userId": "f09b530e-750d-4e8d-905e-6958bf79de2d",
   "domains": [
     {
