@@ -28,7 +28,7 @@
   },
   "config": {
     "features": {
-      "page": true,
+      "page": false,
       "gallery": true,
       "journal": false,
       "database": false
@@ -60,12 +60,12 @@
       "pathname": "/tags"
     }
   ],
-  "themeName": "garden",
+  "themeName": "publication",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 15,
   "createdAt": "2025-01-04T03:21:18.843Z",
-  "updatedAt": "2025-02-13T05:44:09.058Z",
+  "updatedAt": "2025-02-13T05:57:12.715Z",
   "userId": "f09b530e-750d-4e8d-905e-6958bf79de2d",
   "domains": [
     {
