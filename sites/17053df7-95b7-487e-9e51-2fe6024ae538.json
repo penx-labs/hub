@@ -1,0 +1,37 @@
+{
+  "id": "17053df7-95b7-487e-9e51-2fe6024ae538",
+  "name": "jojomemo",
+  "description": "builder of PenX | web3 developer ",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": "0x1bB0e89110caEf41B7A6a808E9E2f13C933f1353",
+  "logo": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/9c56ae8b-b124-4d58-3cb1-e2186cb35100/original",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "config": {},
+  "navLinks": null,
+  "themeName": "publication",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 2,
+  "createdAt": "2024-12-02T01:30:08.270Z",
+  "updatedAt": "2025-02-14T03:05:23.630Z",
+  "userId": "ab4abb82-a12b-48e7-9706-aace80e7bf70",
+  "domains": [
+    {
+      "id": "d2bc2daf-0484-4d9f-9a66-7cfe5872ab44",
+      "domain": "jojomemo",
+      "isSubdomain": true,
+      "subdomainType": "FarcasterName",
+      "disabled": false,
+      "siteId": "17053df7-95b7-487e-9e51-2fe6024ae538"
+    }
+  ]
+}
