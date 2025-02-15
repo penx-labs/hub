@@ -3,7 +3,7 @@
   "name": "OSCat",
   "description": "A community for individual open-source contrubitor",
   "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
-  "spaceId": null,
+  "spaceId": "0x1B5eB33c93B15473841a8ac10cFA4ab016837b12",
   "logo": "https://static.penx.me/0b18a80ffa5f833c5fc6d29c889c833e47438edaf3e99a9db566bbefcaa935bd",
   "font": "font-cal",
   "image": "",
@@ -58,9 +58,9 @@
   "themeName": "publication",
   "themeConfig": null,
   "memberCount": 0,
-  "postCount": 4,
+  "postCount": 12,
   "createdAt": "2025-01-04T02:17:12.784Z",
-  "updatedAt": "2025-02-12T08:40:41.587Z",
+  "updatedAt": "2025-02-15T11:13:00.006Z",
   "userId": "59da80c2-13b7-477e-8972-7d18e1cb2173",
   "domains": [
     {
