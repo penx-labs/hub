@@ -29,8 +29,8 @@
   },
   "analytics": {
     "gaId": "G-32323",
-    "umamicHost": "https://cloud.umami.is",
-    "umamicWebsiteId": "333434"
+    "umamiHost": "https://cloud.umami.is",
+    "umamiWebsiteId": "3343434"
   },
   "config": {
     "features": {
@@ -77,7 +77,7 @@
   "memberCount": 0,
   "postCount": 6,
   "createdAt": "2024-12-10T12:33:03.541Z",
-  "updatedAt": "2025-02-16T13:53:13.245Z",
+  "updatedAt": "2025-02-16T13:57:51.814Z",
   "userId": "02ed919b-3248-4b38-9ea3-78d4b8eae2e9",
   "domains": [
     {
