@@ -4,7 +4,7 @@
   "description": "My personal site",
   "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
   "spaceId": null,
-  "logo": "https://lh3.googleusercontent.com/a/ACg8ocJ_bgIMlEeGNoFm2z61oiBtu9EfZOhwVau44kB_YuTMTMHQ5wA=s96-c",
+  "logo": "/56e813da9280fdf3b068b9b6e3a35cc95a7211241340d014435ff0f641bf48b8",
   "font": "font-cal",
   "image": "",
   "email": null,
@@ -14,14 +14,65 @@
   "authConfig": null,
   "storageProvider": "IPFS",
   "storageConfig": null,
-  "socials": {},
-  "config": {},
-  "themeName": "garden",
+  "socials": {
+    "x": "",
+    "github": "",
+    "medium": "",
+    "discord": "https://github.com/",
+    "threads": "",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "mastodon": "",
+    "farcaster": "",
+    "instagram": ""
+  },
+  "config": {
+    "features": {
+      "page": true,
+      "gallery": false,
+      "journal": false,
+      "database": false
+    }
+  },
+  "navLinks": [
+    {
+      "type": "BUILTIN",
+      "title": "Tags",
+      "visible": true,
+      "pathname": "/tags"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Home2",
+      "visible": false,
+      "pathname": "/"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "About",
+      "visible": true,
+      "pathname": "/about"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Posts",
+      "visible": true,
+      "pathname": "/posts"
+    },
+    {
+      "type": "PAGE",
+      "title": "Project",
+      "visible": true,
+      "pathname": "/p/project"
+    }
+  ],
+  "themeName": "publication",
   "themeConfig": null,
   "memberCount": 0,
-  "postCount": 0,
+  "postCount": 6,
   "createdAt": "2024-12-10T12:33:03.541Z",
-  "updatedAt": "2025-01-10T02:22:41.435Z",
+  "updatedAt": "2025-02-16T01:52:36.205Z",
   "userId": "02ed919b-3248-4b38-9ea3-78d4b8eae2e9",
   "domains": [
     {
