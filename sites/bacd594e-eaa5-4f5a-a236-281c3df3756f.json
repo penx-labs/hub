@@ -14,7 +14,18 @@
   "authConfig": null,
   "storageProvider": "IPFS",
   "storageConfig": null,
-  "socials": {},
+  "socials": {
+    "x": "",
+    "github": "https://github.com/penx-labs/penx",
+    "medium": "",
+    "threads": "",
+    "youtube": "",
+    "facebook": "",
+    "linkedin": "",
+    "mastodon": "",
+    "farcaster": "",
+    "instagram": ""
+  },
   "config": {
     "features": {
       "page": true,
@@ -60,7 +71,7 @@
   "memberCount": 0,
   "postCount": 12,
   "createdAt": "2025-01-04T02:17:12.784Z",
-  "updatedAt": "2025-02-15T11:13:00.006Z",
+  "updatedAt": "2025-02-16T01:47:40.930Z",
   "userId": "59da80c2-13b7-477e-8972-7d18e1cb2173",
   "domains": [
     {
