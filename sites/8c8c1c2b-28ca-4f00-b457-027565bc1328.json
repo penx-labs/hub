@@ -15,7 +15,7 @@
   "storageProvider": "IPFS",
   "storageConfig": null,
   "socials": {
-    "x": "",
+    "x": "https://github.com/",
     "github": "https://github.com/",
     "medium": "",
     "discord": "https://github.com/",
@@ -72,7 +72,7 @@
   "memberCount": 0,
   "postCount": 6,
   "createdAt": "2024-12-10T12:33:03.541Z",
-  "updatedAt": "2025-02-16T01:52:45.547Z",
+  "updatedAt": "2025-02-16T01:56:13.902Z",
   "userId": "02ed919b-3248-4b38-9ea3-78d4b8eae2e9",
   "domains": [
     {
