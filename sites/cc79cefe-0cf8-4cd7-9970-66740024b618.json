@@ -2,9 +2,9 @@
   "id": "cc79cefe-0cf8-4cd7-9970-66740024b618",
   "name": "Leen",
   "description": "Building penx.io~",
-  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"Co-creator of penx.io, Full-Stack developer,  JavaScript / Solidity / Rust .\"}]}]",
+  "about": "[{\"children\":[{\"text\":\"我是 Leen，一个十多年的程序员，半个设计师，开源社区爱好者。\"}],\"type\":\"p\",\"id\":\"9d3edf5e-a867-49e3-8377-0bbf4c030502\"},{\"children\":[{\"text\":\"曾经在 @alibaba、@binance 等公司拧螺丝，现在是一个独立开发者，熟悉 JavaScript、 Solidity, 会点 Rust。\"}],\"type\":\"p\",\"id\":\"0bd7352a-7022-4e18-8d02-6454bf64e86b\"},{\"children\":[{\"text\":\"正在开发 \"},{\"children\":[{\"text\":\"penx.io\"}],\"type\":\"a\",\"url\":\"https://www.penx.io\",\"id\":\"84364fe5-8c80-4f78-abc5-afc6734cf5a6\"},{\"text\":\", 一个开源的，更加现代化的动态博客工具，我计划未来5年(现2025年)会全身心投入到这个产品中。\"}],\"type\":\"p\",\"id\":\"cc7983d5-f0bc-4084-a1d5-da18d60edc4e\"},{\"children\":[{\"text\":\"如果你想要搭建一个动态博客，可以在 \"},{\"children\":[{\"text\":\"PenX\"}],\"type\":\"a\",\"url\":\"https://www.penx.io\",\"id\":\"1868c7f8-a9fa-4cb1-880c-1acabb2f9b8a\"},{\"text\":\" 的 \"},{\"children\":[{\"text\":\"Discord\"}],\"type\":\"a\",\"url\":\"https://discord.gg/nyVpH9njDu\",\"id\":\"2f9b7833-d985-42fe-af02-6b6cb7a242da\"},{\"text\":\" 找到我，我会免费帮你搭建一个。\"}],\"type\":\"p\",\"id\":\"7ca63800-bf5f-406e-a432-e183795970b2\"}]",
   "spaceId": "0x27BCcD70618A09c4E41a62DFf04303d5Bd24A5Da",
-  "logo": "/6554b19ca3eed2033faa1a0062b5b932fc9b242277a7acbc95697dffe39924c2",
+  "logo": "https://static.penx.me/6554b19ca3eed2033faa1a0062b5b932fc9b242277a7acbc95697dffe39924c2",
   "font": "font-cal",
   "image": "",
   "email": null,
@@ -71,7 +71,7 @@
   "memberCount": 0,
   "postCount": 12,
   "createdAt": "2024-12-03T15:28:26.761Z",
-  "updatedAt": "2025-02-17T09:47:03.821Z",
+  "updatedAt": "2025-02-17T13:50:47.887Z",
   "userId": "aa58f8db-e1f6-46ae-8a14-531aa17b525d",
   "domains": [
     {
