@@ -1,0 +1,70 @@
+{
+  "id": "3f325afe-8071-4f16-87fc-d82815ef32c4",
+  "name": "i",
+  "description": "My personal site",
+  "about": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+  "spaceId": null,
+  "logo": "https://penx.io/logo.png",
+  "font": "font-cal",
+  "image": "",
+  "email": null,
+  "mode": "BASIC",
+  "authSecret": null,
+  "authType": "RAINBOW_KIT",
+  "authConfig": null,
+  "storageProvider": "IPFS",
+  "storageConfig": null,
+  "socials": {},
+  "analytics": null,
+  "config": {
+    "features": {
+      "page": true,
+      "gallery": false,
+      "journal": false,
+      "database": false
+    }
+  },
+  "navLinks": [
+    {
+      "type": "BUILTIN",
+      "title": "Home",
+      "visible": true,
+      "pathname": "/"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Posts",
+      "visible": true,
+      "pathname": "/posts"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "Tags",
+      "visible": true,
+      "pathname": "/tags"
+    },
+    {
+      "type": "BUILTIN",
+      "title": "About",
+      "visible": true,
+      "pathname": "/about"
+    }
+  ],
+  "themeName": "minimal",
+  "themeConfig": null,
+  "memberCount": 0,
+  "postCount": 0,
+  "createdAt": "2025-02-17T10:30:03.761Z",
+  "updatedAt": "2025-02-17T15:48:12.824Z",
+  "userId": "43a8b56d-be2e-46f3-9c13-56b5ea38b116",
+  "domains": [
+    {
+      "id": "209236e1-ae42-4a3e-a68f-3168d0242d48",
+      "domain": "43a8b56d-be2e-46f3-9c13-56b5ea38b116",
+      "isSubdomain": true,
+      "subdomainType": "UserId",
+      "disabled": false,
+      "siteId": "3f325afe-8071-4f16-87fc-d82815ef32c4"
+    }
+  ]
+}
