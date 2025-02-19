@@ -15,6 +15,7 @@
   "storageProvider": "IPFS",
   "storageConfig": null,
   "socials": {},
+  "analytics": null,
   "config": {
     "features": {
       "page": true,
@@ -55,12 +56,20 @@
       "pathname": "/p/project"
     }
   ],
+  "catalogue": [
+    {
+      "id": "7d19131f-6f01-48da-ae4f-c4ba6df96ac0",
+      "type": "CATEGORY",
+      "title": "Basic",
+      "folded": false
+    }
+  ],
   "themeName": "publication",
   "themeConfig": null,
   "memberCount": 0,
-  "postCount": 7,
+  "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-09T15:35:20.294Z",
+  "updatedAt": "2025-02-19T05:35:11.831Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
