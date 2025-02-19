@@ -85,6 +85,12 @@
           "folded": false
         }
       ]
+    },
+    {
+      "id": "61625cd3-c472-4ea7-9e89-b85a31b65fe8",
+      "type": "CATEGORY",
+      "title": "Guide",
+      "folded": false
     }
   ],
   "themeName": "publication",
@@ -92,7 +98,7 @@
   "memberCount": 0,
   "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-19T05:35:29.895Z",
+  "updatedAt": "2025-02-19T05:35:37.694Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
