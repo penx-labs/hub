@@ -90,7 +90,16 @@
       "id": "61625cd3-c472-4ea7-9e89-b85a31b65fe8",
       "type": "CATEGORY",
       "title": "Guide",
-      "folded": false
+      "folded": false,
+      "children": [
+        {
+          "id": "6b1912cd-ed6b-462c-bf11-eb46253803a7",
+          "uri": "dc4fed72-8c11-4e1c-9ab3-85159bad1ef7",
+          "type": "DOC",
+          "title": "Deploy a dynamic blog using Cloudflare Pages, D1, R2, and AI",
+          "folded": false
+        }
+      ]
     }
   ],
   "themeName": "publication",
@@ -98,7 +107,7 @@
   "memberCount": 0,
   "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-19T05:35:37.694Z",
+  "updatedAt": "2025-02-19T05:35:58.176Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
