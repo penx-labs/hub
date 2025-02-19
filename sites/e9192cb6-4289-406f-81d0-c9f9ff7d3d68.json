@@ -69,6 +69,13 @@
           "type": "DOC",
           "title": "About PenX",
           "folded": false
+        },
+        {
+          "id": "553a570e-b5a4-4cd5-a1d9-06b9610131a8",
+          "uri": "adb15255-7a4d-4978-84da-0ab1ba5e3764",
+          "type": "DOC",
+          "title": "Deploy PenX with source code",
+          "folded": false
         }
       ]
     }
@@ -78,7 +85,7 @@
   "memberCount": 0,
   "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-19T05:35:21.091Z",
+  "updatedAt": "2025-02-19T05:35:25.187Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
