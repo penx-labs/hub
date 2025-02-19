@@ -146,6 +146,13 @@
       "type": "DOC",
       "title": "Differences between PenX and other blogging solutions",
       "folded": false
+    },
+    {
+      "id": "40092cb2-3b3e-47ac-99b4-3f4386fd4e18",
+      "uri": "e6a88803-7591-48ae-adcb-ffc3eeca8e15",
+      "type": "DOC",
+      "title": "Static and Dynamic Blogs",
+      "folded": false
     }
   ],
   "themeName": "docsBasic",
@@ -153,7 +160,7 @@
   "memberCount": 0,
   "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-19T06:52:00.301Z",
+  "updatedAt": "2025-02-19T06:52:03.103Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
