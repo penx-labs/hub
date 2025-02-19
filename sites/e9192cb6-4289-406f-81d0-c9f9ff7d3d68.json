@@ -118,6 +118,13 @@
       "type": "DOC",
       "title": "Deploy PenX with source code",
       "folded": false
+    },
+    {
+      "id": "663174f6-dfad-43de-9b3d-d3c849172be1",
+      "uri": "e6a88803-7591-48ae-adcb-ffc3eeca8e15",
+      "type": "DOC",
+      "title": "Static and Dynamic Blogs",
+      "folded": false
     }
   ],
   "themeName": "docsBasic",
@@ -125,7 +132,7 @@
   "memberCount": 0,
   "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-19T06:51:47.911Z",
+  "updatedAt": "2025-02-19T06:51:50.342Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
