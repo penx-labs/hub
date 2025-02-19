@@ -69,14 +69,16 @@
           "type": "DOC",
           "emoji": "1f388",
           "title": "About PenX",
-          "folded": false
+          "folded": false,
+          "hasChildren": false
         },
         {
           "id": "553a570e-b5a4-4cd5-a1d9-06b9610131a8",
           "uri": "adb15255-7a4d-4978-84da-0ab1ba5e3764",
           "type": "DOC",
           "title": "Deploy PenX with source code",
-          "folded": false
+          "folded": false,
+          "hasChildren": false
         },
         {
           "id": "d4a6e1e6-41fd-4cbf-8a82-255ac2c28c21",
@@ -84,9 +86,11 @@
           "type": "DOC",
           "emoji": "1f436",
           "title": "Static and Dynamic Blogs",
-          "folded": false
+          "folded": false,
+          "hasChildren": false
         }
-      ]
+      ],
+      "hasChildren": true
     },
     {
       "id": "61625cd3-c472-4ea7-9e89-b85a31b65fe8",
@@ -106,61 +110,79 @@
               "uri": "e6a88803-7591-48ae-adcb-ffc3eeca8e15",
               "type": "DOC",
               "title": "Static and Dynamic Blogs",
-              "folded": false
+              "folded": false,
+              "hasChildren": false
             }
-          ]
+          ],
+          "hasChildren": true
         }
-      ]
+      ],
+      "hasChildren": true
     },
     {
       "id": "0ea29854-4a5d-4429-9336-fff059c43c46",
       "uri": "adb15255-7a4d-4978-84da-0ab1ba5e3764",
       "type": "DOC",
       "title": "Deploy PenX with source code",
-      "folded": false
+      "folded": false,
+      "hasChildren": false
     },
     {
       "id": "663174f6-dfad-43de-9b3d-d3c849172be1",
       "uri": "e6a88803-7591-48ae-adcb-ffc3eeca8e15",
       "type": "DOC",
       "title": "Static and Dynamic Blogs",
-      "folded": false
+      "folded": false,
+      "hasChildren": false
     },
     {
       "id": "06ce0695-3c0a-4e12-b2c1-c4c77ae5b598",
       "uri": "dc4fed72-8c11-4e1c-9ab3-85159bad1ef7",
       "type": "DOC",
       "title": "Deploy a dynamic blog using Cloudflare Pages, D1, R2, and AI",
-      "folded": false
+      "folded": false,
+      "hasChildren": false
     },
     {
       "id": "bff0b452-3b8d-43ef-a45f-df55e4e78402",
       "uri": "60a812e0-65b9-426a-b0f7-9ed788311f5e",
       "type": "DOC",
       "title": "About PenX",
-      "folded": false
+      "folded": false,
+      "hasChildren": false
     },
     {
       "id": "2dc3d1a4-6bff-47cf-8ec2-63420bedfbcc",
       "uri": "48124e0a-f588-494f-b407-e69f7e1408e3",
       "type": "DOC",
       "title": "Differences between PenX and other blogging solutions",
-      "folded": false
+      "folded": false,
+      "hasChildren": false
     },
     {
       "id": "40092cb2-3b3e-47ac-99b4-3f4386fd4e18",
       "uri": "e6a88803-7591-48ae-adcb-ffc3eeca8e15",
       "type": "DOC",
       "title": "Static and Dynamic Blogs",
-      "folded": false
+      "folded": false,
+      "hasChildren": false
+    },
+    {
+      "id": "de227302-8d67-4f9c-b0cf-d3f7ec6f6e4f",
+      "type": "CATEGORY",
+      "title": "API",
+      "folded": false,
+      "hasChildren": false
     }
   ],
+  "projects": null,
+  "friends": null,
   "themeName": "docs",
   "themeConfig": null,
   "memberCount": 0,
   "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-19T08:37:55.062Z",
+  "updatedAt": "2025-02-19T12:35:04.459Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
