@@ -61,7 +61,16 @@
       "id": "7d19131f-6f01-48da-ae4f-c4ba6df96ac0",
       "type": "CATEGORY",
       "title": "Basic",
-      "folded": false
+      "folded": false,
+      "children": [
+        {
+          "id": "9cd54e43-6668-489b-a775-bd256a5b88fc",
+          "uri": "60a812e0-65b9-426a-b0f7-9ed788311f5e",
+          "type": "DOC",
+          "title": "About PenX",
+          "folded": false
+        }
+      ]
     }
   ],
   "themeName": "publication",
@@ -69,7 +78,7 @@
   "memberCount": 0,
   "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-19T05:35:11.831Z",
+  "updatedAt": "2025-02-19T05:35:21.091Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
