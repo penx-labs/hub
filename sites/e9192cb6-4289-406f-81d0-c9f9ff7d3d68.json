@@ -125,6 +125,13 @@
       "type": "DOC",
       "title": "Static and Dynamic Blogs",
       "folded": false
+    },
+    {
+      "id": "06ce0695-3c0a-4e12-b2c1-c4c77ae5b598",
+      "uri": "dc4fed72-8c11-4e1c-9ab3-85159bad1ef7",
+      "type": "DOC",
+      "title": "Deploy a dynamic blog using Cloudflare Pages, D1, R2, and AI",
+      "folded": false
     }
   ],
   "themeName": "docsBasic",
@@ -132,7 +139,7 @@
   "memberCount": 0,
   "postCount": 5,
   "createdAt": "2024-12-01T11:49:33.137Z",
-  "updatedAt": "2025-02-19T06:51:50.342Z",
+  "updatedAt": "2025-02-19T06:51:53.892Z",
   "userId": "6ece4aed-e8f0-4891-b979-a4140d3d4bd0",
   "domains": [
     {
