@@ -8,21 +8,40 @@
   "font": "font-cal",
   "image": "",
   "email": null,
-  "mode": "BASIC",
   "authSecret": null,
   "authType": "RAINBOW_KIT",
   "authConfig": null,
-  "storageProvider": "IPFS",
-  "storageConfig": null,
   "socials": {},
-  "config": {},
+  "analytics": null,
+  "config": {
+    "features": {
+      "page": true,
+      "gallery": true,
+      "journal": false,
+      "database": true
+    }
+  },
   "navLinks": null,
+  "catalogue": [
+    {
+      "id": "01679a40-0259-4c68-982a-dda1757e5c9e",
+      "uri": "a943e724-4c63-44b1-85d7-e94937df9842",
+      "type": "POST",
+      "title": "Welcome",
+      "folded": false,
+      "hasChildren": false
+    }
+  ],
+  "projects": null,
+  "friends": null,
+  "newsletterConfig": null,
+  "notificationConfig": null,
   "themeName": "publication",
   "themeConfig": null,
   "memberCount": 0,
-  "postCount": 2,
+  "postCount": 1,
   "createdAt": "2024-12-02T01:30:08.270Z",
-  "updatedAt": "2025-02-14T03:05:23.630Z",
+  "updatedAt": "2025-02-21T05:27:15.199Z",
   "userId": "ab4abb82-a12b-48e7-9706-aace80e7bf70",
   "domains": [
     {
